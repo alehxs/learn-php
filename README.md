@@ -45,7 +45,7 @@ I've practiced with all the main PHP data types:
 One of the important things I learned was about hosting.
 I tried hosting my `.php` on GitHub Pages, but it didn't work.
 
-* GitHub Pages is a **static site host**. It's designed to serve plain files such as HTML, CSS, and JavaScript. it just sends the file to the browser as-is.
+* GitHub Pages is a **static site host**. It's designed to serve plain files such as HTML, CSS, and JavaScript. It just sends the file to the browser as-is.
 * **PHP**, on the other hand, is a **server-side language**. It needs a special server (Apache, which is what XAMPP/MAMP use) to:
   1. Read the `.php` file.
   2. Execute the code
